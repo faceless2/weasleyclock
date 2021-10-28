@@ -30,7 +30,7 @@ const mqttHost = "mqtt://mqtt.local";           // The MQTT host
 const topicAsk  = "weasley/ask";                // The MQTT topic this listens to
 const topicTell = "weasley/tell";               // The MQTT topic this code sends reports as
 const rotation = 10000;                         // Controls speed of rotation
-const points = [                                // The names of the points, starting 12 0° and moving clockwise. As many as you need.
+const points = [                                // The names of the points, starting at 0° and moving clockwise. As many as you need.
     "home",
     "office",
     "travel",
