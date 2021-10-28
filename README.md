@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a6
 * 1 x rear plate cut from 6mm acrylic (with the big holes)
 * 1 x front plate cut from 6mm acrylic
 * 1 x set of clock hands laser cut from 1mm brass
-* 4 x 65mm standoffs with M4 internal thread at both ends.
+* 4 x 65mm standoffs with M4 internal thread at both ends [example](https://www.ebay.co.uk/itm/194028880936)
 * 16 x M4x12mm countersunk machine screws
 * 8 x M4 nuts
 * 4 x 8mm OD 5mm ID plastic flanged bush
@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a6
 * For the face we used 18mm MDF, laser printer, PVA glue and paint.
 
 When cutting the tubes down to size, deburr and be careful not to compress the ends, they've got to rotate freely.
+Note: you could probably get away with 60mm standoffs, or standoffs with an external thread at one end, or even just long M4 bolts and a few extra nuts if you're really struggling to source. If you shorten the standoffs, take the same length off each of the tubes.
 
 ## Mechanism
 1. On the two plastic plates, one of the four holes on both plates is 0.8mm closer to the center. On version 2 of the drawings (uploaded) this is marked with a
