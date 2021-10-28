@@ -3,6 +3,7 @@
 
 https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a686-52532e8d849e.mp4
 
+No 3D printing here - brass tubes, brass laser-cut hands, acrylic laser-cut mounting and off-the-shelf cogs.
 
 ## Parts
 * 1 x Raspberry Pi
@@ -34,6 +35,7 @@ https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a6
 * When cutting the tubes down to size, deburr and be careful not to compress the ends, they've got to rotate freely.
 * You could probably get away with 60mm standoffs, or standoffs with an external thread at one end, or even just long M4 bolts and a few extra nuts if you're really struggling to source. If you shorten the standoffs, take the same length off all of the tubes.
 * The lengths of the nested tubes only are based on 12mm ply, remember to adjust them if you change this.
+* Lasercutting in the UK? I used http://www.lasermaster.co.uk for the brass and http://https://razorlab.online for the acrylic.
 
 ## Mechanism
 1. On the two plastic plates, one of the four holes on both plates is 0.8mm closer to the center. On version 2 of the drawings (uploaded) this is marked with a
