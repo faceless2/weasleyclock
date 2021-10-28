@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181mm" height="181mm" viewBox="0 0 181 181">
+ <style>
+ * { stroke-width: 0.01mm }
+ .cut { stroke:#0000FF; fill: none; }
+ .outline { display:none; fill: none; stroke: none }
+ </style>
+ <rect x="0" y="0" width="181" height="181" class="outline"/>
+ <g class="cut" transform="translate(45.5 45.5)">
+  <!-- front panel -->
+  <rect x="-44" y="-44" width="88" height="88" rx="5" ry="5"/>
+  <circle r="9.5"/>
+  <circle cx="-37" cy="-37" r="2"/>
+  <circle cx="37" cy="-37" r="2"/>
+  <circle cx="-37" cy="37" r="2"/>
+  <circle cx="37" cy="37" r="2"/>
+
+  <circle cx="-28" cy="-28" r="2"/>
+  <circle cx="28" cy="-28" r="2"/>
+  <circle cx="-28" cy="28" r="2"/>
+  <circle cx="28" cy="28" r="2"/>
+
+  <g transform="rotate(0) translate(0 23.2)"><circle r="4"/></g>
+  <g transform="rotate(90) translate(0 23.2)"><circle r="4"/></g>
+  <g transform="rotate(180) translate(0 23.2)"><circle r="4"/></g>
+  <g transform="rotate(270) translate(0 22.4)"><circle r="4"/><circle cy="15" r="1"/></g>
+ </g>
+
+ <g class="cut" transform="translate(135.5 45.5)">
+  <!-- rear panel -->
+  <rect x="-44" y="-44" width="88" height="88" rx="5" ry="5"/>
+  <circle r="4"/> <!-- Could be r=1.75 if we wanted to do away with bush? -->
+  <circle cx="-37" cy="-37" r="2"/>
+  <circle cx="37" cy="-37" r="2"/>
+  <circle cx="-37" cy="37" r="2"/>
+  <circle cx="37" cy="37" r="2"/>
+
+  <circle cx="-28" cy="-28" r="5"/>
+  <circle cx="28" cy="-28" r="5"/>
+  <circle cx="-28" cy="28" r="5"/>
+  <circle cx="28" cy="28" r="5"/>
+
+  <g transform="rotate(0) translate(0 23.2)">
+   <g transform="translate(0 8)"><g class="outline"><circle r="14"/><rect x="-7.25" y="0" width="14.5" height="17.5"/><circle cx="-17.5" r="3.5"/><circle cx="17.5" r="3.5"/><rect x="-17.5" y="-3.5" width="35" height="7"/></g><circle cx="-17.5" r="2" class="cut"/><circle cx="17.5" r="2" class="cut"/><circle cx="0" cy="-8" r="10.5" class="cut"/></g>
+  </g>
+  <g transform="rotate(90) translate(0 23.2)">
+   <g transform="translate(0 8)"><g class="outline"><circle r="14"/><rect x="-7.25" y="0" width="14.5" height="17.5"/><circle cx="-17.5" r="3.5"/><circle cx="17.5" r="3.5"/><rect x="-17.5" y="-3.5" width="35" height="7"/></g><circle cx="-17.5" r="2" class="cut"/><circle cx="17.5" r="2" class="cut"/><circle cx="0" cy="-8" r="10.5" class="cut"/></g>
+  </g>
+  <g transform="rotate(180) translate(0 23.2)">
+   <g transform="translate(0 8)"><g class="outline"><circle r="14"/><rect x="-7.25" y="0" width="14.5" height="17.5"/><circle cx="-17.5" r="3.5"/><circle cx="17.5" r="3.5"/><rect x="-17.5" y="-3.5" width="35" height="7"/></g><circle cx="-17.5" r="2" class="cut"/><circle cx="17.5" r="2" class="cut"/><circle cx="0" cy="-8" r="10.5" class="cut"/></g>
+  </g>
+  <g transform="rotate(270) translate(0 22.4)">
+   <g transform="translate(0 8)"><g class="outline"><circle r="14"/><rect x="-7.25" y="0" width="14.5" height="17.5"/><circle cx="-17.5" r="3.5"/><circle cx="17.5" r="3.5"/><rect x="-17.5" y="-3.5" width="35" height="7"/></g><circle cx="-17.5" r="2" class="cut"/><circle cx="17.5" r="2" class="cut"/><circle cx="0" cy="-8" r="10.5" class="cut"/></g>
+   <circle cy="15" r="1"/>
+  </g>
+ </g>
+</svg>
