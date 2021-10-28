@@ -1,7 +1,11 @@
-# weasleyclock
-Mikes Weasley Clock
+# A four-handed "Weasley" Clock
+
+
+https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a686-52532e8d849e.mp4
+
 
 ## Parts
+* 1 x Raspberry Pi
 * 1 x rear plate cut from 6mm acrylic (with the big holes)
 * 1 x front plate cut from 6mm acrylic
 * 1 x set of clock hands laser cut from 1mm brass
@@ -64,6 +68,8 @@ small hold next to it, but on version 1 it's not - identify and mark this hole o
 
 ## Assembly
 Less photos here. We cut a round clockface out of 18mm MDF, painted it, drilled an overlarge (10mm or more) hole in the middle, so friction on the tubes is easily avoided. We designed a clock face, *flipped it horizontally* (important) and printed it out onto a monochrome laser. We then transferred the laser toner to the wood by covering the wood in PVA glue and glueing the paper, face down, and leaving it overnight. The next day we carefully remove the paper by soaking it with water and rubbing it.
+
+![IMG_3667](https://user-images.githubusercontent.com/989243/139256974-677df55e-4ed0-4a55-b666-feaf939b26a8.jpg)
 
 The mechanism can be screwed to the back side of this clock face (holes 74mm apart) with the tubes poking through. The clock hands should press fit on, no glue required. If you're going to glue a photo or some way to identify each hand, do it before this step!
 
