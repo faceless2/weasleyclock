@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a6
 * 16 x M4x12mm countersink posi machine screws
 * 8 x M4 nuts
 * 4 x 8mm OD 5mm ID plastic flanged bush
-* 1 x 8mm OD 6mm ID plastic flanged bush _(version 1 only, not required for version 2)_
+* 1 x 8mm OD 6mm ID plastic flanged bush
 * 4 x 28BYJ-48 stepper motors
 * 4 x flexible shaft coupling, approx 25mm long, 5mm bore, [example](https://www.robotshop.com/uk/servocity-flexible-clamping-shaft-coupler-5mm-5mm.html)
 * 1 x 19mm OD, 6mm ID bearing eg [626ZZ](https://www.bearingshopuk.co.uk/626-zz/)
