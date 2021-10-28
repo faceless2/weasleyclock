@@ -3,7 +3,7 @@
 
 https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a686-52532e8d849e.mp4
 
-No 3D printing here - brass tubes, brass laser-cut hands, acrylic laser-cut mounting and off-the-shelf cogs.
+No 3D printing here - brass tubes, 1mm brass laser-cut hands, acrylic laser-cut mounting and off-the-shelf cogs. The protrusion in front of the clock face is about 10mm.
 
 ## Parts
 * 1 x Raspberry Pi
@@ -87,3 +87,5 @@ https://user-images.githubusercontent.com/989243/139246527-b8acf82c-0bef-4004-a1
 ## Controlling it
 
 The software in the repository runs on the Pi as root, and reports/listens to an MQTT server for instructions on where to position the hands. How to get those messages to the MQTT server is (mercifully) out of scope for what I wanted to show here. We use https://owntracks.org for this, plus a few bluetooth beacons.
+
+An entirely separate process on a different machine listens for Owntracks reports, identifies if they fall into one of our regions and sends the appropriate MQTT message if they do. However you do it I would strongly advice decoupling the process that drives the hands from the process (or processes) that decides where each person is - you'll be forever tuning that.
