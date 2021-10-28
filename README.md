@@ -41,7 +41,7 @@ small hold next to it, but on version 1 it's not - identify and mark this hole o
 
 3. Glue 6mm core gear to 6mm tube, teeth at the end of the tube. One drop should do it.
 4. Glue 5mm core gear to 5mm tube, teeth at the end of the tube
-5. Glue 4mm core gear to 4mm tube, teeth 38mm from the end of the tube (picture shows it not at the end, but it should be)
+5. Glue 4mm core gear to 4mm tube, teeth at the end of the tube (picture shows it not at the end, but it should be)
 6. Glue 3mm core gear to 3mm tube, teeth 28mm from the end of the tube
 7. Glue 3mm ID, 6mm OD bush to end of 3mm tube nearest the gear
 8. Fit 4 remaining 5mm gears to 67x5mm OD tubes, teeth about 10mm in from end. Glue later once meshed.
