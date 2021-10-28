@@ -67,4 +67,9 @@ Less photos here. We cut a round clockface out of 18mm MDF, painted it, drilled 
 
 The mechanism can be screwed to the back side of this clock face (holes 74mm apart) with the tubes poking through. The clock hands should press fit on, no glue required. If you're going to glue a photo or some way to identify each hand, do it before this step!
 
-Fit the motors to the motor driver board, fit that to the Raspberry Pi, and be sure to power the Pi via the USB port _on the motor board_, not on the Pi itself. The Motors use a bit of power, and the Pi has a polyfuse on its USB input which can trip when too much power is drawn. Powering both boards via the motor board does not have this issue.
+Fit the motors to the motor driver board, fit that to the Raspberry Pi, and be sure to power the Pi via the USB port _on the motor board_, not on the Pi itself. The Motors use a bit of power, and the Pi has a polyfuse on its USB input which can trip when too much power is drawn. Power both boards via the motor board and you won't have this issue.
+
+
+https://user-images.githubusercontent.com/989243/139246527-b8acf82c-0bef-4004-a101-bafe20a1f79c.mp4
+
+
