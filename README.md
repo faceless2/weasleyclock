@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a6
 * 1 x rear plate cut from 6mm acrylic (with the big holes)
 * 1 x front plate cut from 6mm acrylic
 * 1 x set of clock hands laser cut from 1mm brass
-* 4 x 65mm standoffs with 4mm internal thread
+* 4 x 65mm standoffs with M4 internal thread at both ends.
 * 16 x M4x12mm countersunk machine screws
 * 8 x M4 nuts
 * 4 x 8mm OD 5mm ID plastic flanged bush
