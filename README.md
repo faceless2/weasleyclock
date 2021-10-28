@@ -79,4 +79,6 @@ Fit the motors to the motor driver board, fit that to the Raspberry Pi, and be s
 
 https://user-images.githubusercontent.com/989243/139246527-b8acf82c-0bef-4004-a101-bafe20a1f79c.mp4
 
+## Controlling it
 
+The software in the repository runs on the Pi as root, and reports/listens to an MQTT server for instructions on where to position the hands. How to get those messages to the MQTT server is (mercifully) out of scope for what I wanted to show here. We use https://owntracks.org for this, plus a few bluetooth beacons.
