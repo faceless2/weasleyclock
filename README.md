@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a6
 * 1 x 30mm 6mm OD/5.5mm ID [brass tube](https://maccmodels.co.uk/shop/6mm-dia-brass-tube-300mm-long-2/)
 * 4 x 67mm 5mm OD/4.5mm ID brass tube (a 350mm length of 5mm tube would cover it)
 * Cyanoacrylate glue
-* For the face we used 12mm MDF, laser printer, PVA glue and paint.
+* For the face we used 12mm plywood, laser printer, PVA glue and paint.
 
 ## Notes
 * When cutting the tubes down to size, deburr and be careful not to compress the ends, they've got to rotate freely.
