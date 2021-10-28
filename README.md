@@ -28,10 +28,12 @@ https://user-images.githubusercontent.com/989243/139255803-986225fb-e1a2-4cf8-a6
 * 1 x 30mm 6mm OD/5.5mm ID [brass tube](https://maccmodels.co.uk/shop/6mm-dia-brass-tube-300mm-long-2/)
 * 4 x 67mm 5mm OD/4.5mm ID brass tube (a 350mm length of 5mm tube would cover it)
 * Cyanoacrylate glue
-* For the face we used 18mm MDF, laser printer, PVA glue and paint.
+* For the face we used 12mm MDF, laser printer, PVA glue and paint.
 
-When cutting the tubes down to size, deburr and be careful not to compress the ends, they've got to rotate freely.
-Note: you could probably get away with 60mm standoffs, or standoffs with an external thread at one end, or even just long M4 bolts and a few extra nuts if you're really struggling to source. If you shorten the standoffs, take the same length off each of the tubes.
+## Notes
+* When cutting the tubes down to size, deburr and be careful not to compress the ends, they've got to rotate freely.
+* You could probably get away with 60mm standoffs, or standoffs with an external thread at one end, or even just long M4 bolts and a few extra nuts if you're really struggling to source. If you shorten the standoffs, take the same length off each of the tubes.
+* The tube lengths are based on 12mm ply, remember to adjust them if you change this.
 
 ## Mechanism
 1. On the two plastic plates, one of the four holes on both plates is 0.8mm closer to the center. On version 2 of the drawings (uploaded) this is marked with a
@@ -69,7 +71,7 @@ small hold next to it, but on version 1 it's not - identify and mark this hole o
 
 
 ## Assembly
-Less photos here. We cut a round clockface out of 18mm MDF, painted it, drilled an overlarge (10mm or more) hole in the middle, so friction on the tubes is easily avoided. We designed a clock face, *flipped it horizontally* (important) and printed it out onto a monochrome laser. We then transferred the laser toner to the wood by covering the wood in PVA glue and glueing the paper, face down, and leaving it overnight. The next day we carefully remove the paper by soaking it with water and rubbing it.
+Less photos here. We cut a round clockface out of 12mm plywood, painted it, drilled an overlarge (10mm or more) hole in the middle, so friction on the tubes is easily avoided. We designed a clock face, *flipped it horizontally* (important) and printed it out onto a monochrome laser. We then transferred the laser toner to the wood by covering the wood in PVA glue and glueing the paper, face down, and leaving it overnight. The next day we carefully remove the paper by soaking it with water and rubbing it.
 
 ![IMG_3667](https://user-images.githubusercontent.com/989243/139256974-677df55e-4ed0-4a55-b666-feaf939b26a8.jpg)
 
